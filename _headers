@@ -1,0 +1,6 @@
+# Read by Cloudflare Pages and Netlify. Other hosts ignore this file.
+# Keeps the invitation out of search engines and makes phones hand the calendar file to their calendar app.
+/*
+  X-Robots-Tag: noindex, nofollow
+/*.ics
+  Content-Type: text/calendar; charset=utf-8

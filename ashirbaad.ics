@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Shatabdi and Sharajit//Ashirbaad Invitation//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:ashirbaad-shatabdi-sharajit-20261127@invitation
+DTSTAMP:20261121T000000Z
+DTSTART:20261127T080000Z
+DTEND:20261127T110000Z
+SUMMARY:Ashirbaad Ceremony of Shatabdi & Sharajit
+LOCATION:Sarinda Sobari Resort\, Akua Morolpara Road\, Mymensingh\, Banglad
+ esh
+GEO:24.736113;90.394675
+DESCRIPTION:With the blessings of our families\, we cordially invite you to
+  the Ashirbaad Ceremony of Shatabdi & Sharajit.\n\nFriday\, 27 November 20
+ 26\, 2:00 PM Bangladesh time\nVenue: Sarinda Sobari Resort\, Akua Morolpar
+ a Road\, Mymensingh\nMap: https://maps.app.goo.gl/yrNe1zPZongHcUvJ8\n\nYou
+ r gracious presence will make our new journey even more special.
+URL:https://maps.app.goo.gl/yrNe1zPZongHcUvJ8
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR
