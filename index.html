@@ -822,6 +822,15 @@ html:not(.js) .arch__box {
 .cover .divider { width: min(100%, 20rem); margin-top: 1rem; }
 .cover__open { margin-top: 1.7rem; min-width: 15rem; }
 .cover__hint { margin-top: 1rem; font-style: italic; font-size: 1.02rem; color: var(--ink-soft); }
+/* wide screens: the names sit on one line */
+@media (min-width: 800px) {
+  .cover__om { width: 3rem; }
+  .cover__kicker { margin-top: .8rem; }
+  .cover__names { font-size: clamp(3.4rem, 4.8vw, 4.6rem); line-height: 1.2; }
+  .cover__names span { display: inline; }
+  .cover .divider { margin-top: .7rem; }
+  .cover__open { margin-top: 1.5rem; }
+}
 @media (max-height: 560px) {
   .cover { padding-top: calc(var(--toran-h) * .6 + 1.1rem + env(safe-area-inset-top, 0px)); padding-bottom: 1.2rem; }
   .cover__toran { height: calc(var(--toran-h) * .6); }
